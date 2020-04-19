@@ -20,6 +20,7 @@ components:
       properties:
         id:
           type: string
+      x-examples: {}
   securitySchemes:
     Authorization:
       name: API Key
